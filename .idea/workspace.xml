@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2d01078-c6ac-4c12-9e33-fefc3dc6ae52" name="Changes" comment="" />
+    <list default="true" id="b2d01078-c6ac-4c12-9e33-fefc3dc6ae52" name="Changes" comment="homework">
+      <change afterPath="$PROJECT_DIR$/../Task/.idea/Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task/task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,10 +26,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2jKdPbS80Dou6D0jDjfbf00RGym" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Asus Tuf Gaming/PycharmProjects/pythonProject1"
   }
 }]]></component>
   <component name="RunManager">
@@ -65,17 +85,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721139678291</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework">
+      <option name="closed" value="true" />
+      <created>1721142812953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721142812953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
   </component>
 </project>
